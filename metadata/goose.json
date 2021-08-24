@@ -1,0 +1,6 @@
+{
+    "name":"Goose",
+    "description":"Not the goose of the golden eggs but certainly it will make you win",
+    "image":"https://ipfs.io/ipfs/QmRLTcBw2Gc67cLegrQHd2a949LdH6BJKFCDCz6AzLRnRx?filename=goose.png",
+    "attributes":[{"trait_type":"Strength","value":13},{"trait_type":"Dexterity","value":38},{"trait_type":"Constitution","value":26},{"trait_type":"Intelligence","value":70},{"trait_type":"Wisdom","value":71},{"trait_type":"Charisma","value":75},{"trait_type":"Experience","value":0}]
+}

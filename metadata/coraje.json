@@ -1,0 +1,7 @@
+{
+    "description":"A kind yet easily frightened dog",
+    "image":"https://ipfs.io/ipfs/QmdtUkyH3gxU68TjBPpaxhzrD85LpkVrUReaKgWCXPW5vZ?filename=coraje.jpeg",
+    "name":"Coraje",
+    "attributes":[{"trait_type":"Strength","value":60},{"trait_type":"Dexterity","value":2},{"trait_type":"Constitution","value":9},{"trait_type":"Intelligence","value":0},{"trait_type":"Wisdom","value":42},{"trait_type":"Charisma","value":22},{"trait_type":"Experience","value":0}]
+}
+  
